@@ -1,0 +1,15 @@
+C:\Users\awikl\source\repos\NoteTaking\bin\Debug\netcoreapp3.1\NoteTaking.exe
+C:\Users\awikl\source\repos\NoteTaking\bin\Debug\netcoreapp3.1\NoteTaking.deps.json
+C:\Users\awikl\source\repos\NoteTaking\bin\Debug\netcoreapp3.1\NoteTaking.runtimeconfig.json
+C:\Users\awikl\source\repos\NoteTaking\bin\Debug\netcoreapp3.1\NoteTaking.runtimeconfig.dev.json
+C:\Users\awikl\source\repos\NoteTaking\bin\Debug\netcoreapp3.1\NoteTaking.dll
+C:\Users\awikl\source\repos\NoteTaking\bin\Debug\netcoreapp3.1\NoteTaking.pdb
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.csprojAssemblyReference.cache
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.Form1.resources
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.csproj.GenerateResource.cache
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.AssemblyInfoInputs.cache
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.AssemblyInfo.cs
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.dll
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.pdb
+C:\Users\awikl\source\repos\NoteTaking\obj\Debug\netcoreapp3.1\NoteTaking.genruntimeconfig.cache
